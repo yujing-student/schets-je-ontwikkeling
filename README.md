@@ -10,6 +10,9 @@ opdrachten op tijd af hebben
 ## dit gaat minder goed
 plannen prioriteiten stellen
 soms te laat naar bed gaan
-## Licentie
+
+## wiki
+zie de wiki voor meer informatie https://github.com/yujing-student/schets-je-ontwikkeling/wiki
+## Licentie 
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
